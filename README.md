@@ -2,6 +2,8 @@
 
 Transformo a complexidade dos dados da sua empresa em decisões claras, rápidas e lucrativas através de painéis interativos de alta performance no Microsoft Power BI.
 
+> 👉 **[Acesse aqui meu Portfólio Interativo Oficial e teste os painéis](https://cristiano-bizetto.notion.site/Intelig-ncia-de-Dados-e-Dashboards-Executivos-33586b1c6cc180049738ef877620a7e8?source=copy_link)**
+
 ---
 
 ### 📦 Inteligência Comercial: Distribuidores (B2B) e Varejo (B2C)
